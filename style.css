@@ -1,0 +1,13 @@
+#video{
+    width: 100%;
+    height: 500px;
+    border: none;
+} 
+.livros{
+    margin-bottom: 10px;
+}
+
+#contato iframe
+{
+width: 100%;
+}
